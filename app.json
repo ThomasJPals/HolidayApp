@@ -3,12 +3,12 @@
     "name": "HolidayApp",
     "slug": "HolidayApp",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/vakantie_logo.jpg",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#043464"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
